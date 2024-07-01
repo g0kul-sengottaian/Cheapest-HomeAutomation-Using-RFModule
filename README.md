@@ -1,10 +1,14 @@
 Cheap Home Automation System using RF Modules
+
+
 Overview:
 This project aims to provide an affordable home automation solution for individuals with disabilities and low-income households. Traditional smart home systems can be expensive, making them inaccessible for many people. Our solution uses low-cost components, enabling more people to benefit from home automation.
 
 Components:
 
 Arduino: The microcontroller that processes inputs and controls outputs.
+
+
 RF Receiver: Receives signals transmitted from the RF transmitter.
 RF Transmitter: Sends control signals to the RF receiver.
 4-Channel Relay: Controls the electrical appliances based on received signals.
