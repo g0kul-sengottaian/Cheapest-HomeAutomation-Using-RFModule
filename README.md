@@ -31,6 +31,7 @@ Challenges and Solutions:
 Signal Transmission Through Walls: RF signals can have difficulty penetrating walls, leading to poor signal transmission.
 
 Solution: We use additional pairs of RF receivers and transmitters placed in doorways. These act as repeaters, retransmitting the signal from room to room to ensure reliable communication throughout the house.
+
 Benefits:
 
 Accessibility: Provides an easy-to-use automation solution for individuals with disabilities.
